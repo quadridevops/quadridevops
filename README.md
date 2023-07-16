@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/93031423?s=400&u=8c92b756e702fb98bf5b0f23bc59f763534baf37&v=4" alt="Syed Safi" width="200" height="200">
 </p>
 
-<h1 align="center">DevOps Engineer | Cloud Architect</h1>
+<h1 align="center">DevOps Engineer | DevOps Architect</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm an experienced DevOps engineer with expertise in AWS Cloud, Azure Cloud, and a wide range of tools and technologies.
