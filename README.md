@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quadridevops&label=Profile%20views&color=0e75b6&style=flat" alt="quadridevops" /> </p>
 
+<p align="center">
+  Welcome to my GitHub profile! I'm an experienced DevOps engineer with expertise in AWS Cloud, Azure Cloud, and a wide range of tools and technologies.
+</p>
+
 - 🌱 I’m currently learning **GitOps**
 
 - 💬 Ask me about **Git, AWS, Azure, Azure DevOps, Docker & Kubernetes**
