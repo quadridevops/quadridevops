@@ -10,6 +10,23 @@
   Welcome to my GitHub profile! I'm an experienced DevOps engineer with expertise in AWS Cloud, Azure Cloud, and a wide range of tools and technologies.
 </p>
 
+---
+
+## 🔧 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-Tools-blue?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-VCS-red?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-Automation-orange?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-blue?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-Containers-lightblue?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+---
 - 🌱 I’m currently learning **GitOps**
 
 - 💬 Ask me about **Git, AWS, Azure, Azure DevOps, Docker & Kubernetes**
