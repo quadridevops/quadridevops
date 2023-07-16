@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/syed-safi-248aab4b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/syed-safi-248aab4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/-Website-1abc9c?style=flat"></a>
 </p>
