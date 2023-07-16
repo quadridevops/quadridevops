@@ -2,8 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/93031423?s=400&u=8c92b756e702fb98bf5b0f23bc59f763534baf37&v=4" alt="Syed Safi" width="200" height="200">
 </p>
 <h1 align="center">Hi 👋, I'm Syed Safi</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-<h1 align="center">DevOps Engineer | DevOps Architect</h1>
+<h1 align="center">A passionate DevOps Engineer | DevOps Architect from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quadridevops&label=Profile%20views&color=0e75b6&style=flat" alt="quadridevops" /> </p>
 
