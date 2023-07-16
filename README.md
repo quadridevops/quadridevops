@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quadridevops&label=Profile%20views&color=0e75b6&style=flat" alt="quadridevops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quadridevops" alt="quadridevops" /></a> </p>
-
 - 🌱 I’m currently learning **GitOps**
 
 - 💬 Ask me about **Git, AWS, Azure, Azure DevOps, Docker & Kubernetes**
