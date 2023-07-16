@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-picture-url" alt="Your Name" width="200" height="200">
+  <img src="https://your-profile-picture-url" alt="Syed Safi" width="200" height="200">
 </p>
 
 <h1 align="center">DevOps Engineer | Cloud Architect</h1>
