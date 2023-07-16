@@ -62,6 +62,6 @@ Brief description of the project, highlighting the purpose, technologies used, a
 
 I'm always open to exciting opportunities and collaborations. Let's connect and explore how we can work together to build robust cloud architectures, implement DevOps best practices, and drive digital transformation.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: https://www.linkedin.com/in/syed-safi-248aab4b/
 - Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 - Website: [Your Website](https://your-website.com)
