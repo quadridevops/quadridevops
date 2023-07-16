@@ -27,6 +27,22 @@
 </p>
 
 ---
+
+## 🌟 Key Skills
+
+- Cloud Infrastructure Design & Management
+- Continuous Integration & Continuous Deployment (CI/CD)
+- Infrastructure-as-Code (IaC) using Terraform
+- Containerization with Docker & Orchestration with Kubernetes
+- Automation & Configuration Management with Ansible
+- Version Control using Git & Collaborative Development
+- Jenkins for Build, Test, and Deployment Automation
+- AWS & Azure Cloud Services & Solutions
+- Cloud Security, Monitoring, and Performance Optimization
+
+---
+
+---
 - 🌱 I’m currently learning **GitOps**
 
 - 💬 Ask me about **Git, AWS, Azure, Azure DevOps, Docker & Kubernetes**
